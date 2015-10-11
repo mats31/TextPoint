@@ -1,9 +1,14 @@
-threejs-starter-kit
+TextPoint
 ===================
 
-It uses Three.js and Greensock as depencies.
-I also added Wagner for post-processing.
+An experiment based on three.js and his Points object and Text Geometry.
+A simple shader take care of the animation.
 
+#### Technologies :
+* ThreeJs
+* Shaders
+
+#### Setup from the [boilerplate](https://github.com/vdaguenet/threejs-starter-kit) of [vdaguenet](https://github.com/vdaguenet)  :
 After cloning install all dependencies :
 ```bash
 npm i
